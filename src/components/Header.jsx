@@ -9,6 +9,7 @@ export default function Header()
         <header>
             <img id="site-logo" src="logo.svg"/>
             <PageMenu />
+            <div className="drpdown "><a href="https://nathanrvazquez.github.io"><button className="nav">View Portolio</button></a></div>
         </header>
     );
 }
