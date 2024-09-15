@@ -93,7 +93,7 @@ export function AboutUs(){
             </div>
             <div className="nathan-card">
                 <h2 className="h2"> Nathan Vazquez</h2>
-                <img src="https://ca.slack-edge.com/T079D4UFV2L-U07BD32CHA4-3feabf8fec9b-48" />
+                <img src="Nathan_Vazquez_Headshot.jpg" />
                 <h3>Contribution:</h3>
                 <div className="contribution">
                 <p className="p">

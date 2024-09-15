@@ -7,10 +7,6 @@ export function ProjectInfo() {
         <>
         <div className="proj-info">
             <h2>Project Info</h2>
-            <p>Below is a video explaining how to use the site</p>
-            <iframe width="640px" height="480px"
-                src="https://www.youtube.com/embed/tgbNymZ7vqY">
-            </iframe>
             <div className="project-info">
                 <div className="section">
                 <h4>Inspiration</h4>
