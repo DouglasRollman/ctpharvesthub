@@ -10,7 +10,7 @@ export function getFoodServices(foodTable) {
           serviceID: fp['ID'],
           title: fp['PROGRAM'],
           phone: fp['PHONE'],
-          address: fp['FULL_ADDRESS'],
+          address: fp['ADDRESS'],
           borough: fp['BOROUGH'].toLowerCase(),
           hours: fp['HOURS'],
           days: getDays(
